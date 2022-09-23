@@ -14,9 +14,16 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 <h3> Descrição </h3>
-<p> O projeto tem como função exibir uma tabela listando alguns jogos, os quais usuários enviam através de um formulário.</p>
+<p> O projeto 'Jogoteca' é uma realização acadêmica que tem como objetivo mostrar uma lista de jogos fornecidas por um usuário a partir de linguagens de programação e aplicação web. </p>
 
 <h3> Tecnologias utilizadas </h3>
-<p> O projeto foi desenvolvido com a instrução do Professor Carlos, foram utilizadas as linguagens Python e HTML.<br>Para o desenvolvimento foram utilizadas ferramentas para criação de um reporitório para que o progresso fosse mantido e houvesse a possibilidade de ver as versões antigas.</p> 
+<p> Utilizou-se de linguagem html e python para a construção do programa.</p> 
+
+<h3> Para saber mais, clique no Hiperlink abaixo</h3>
+<a href="/" class=” botao ”> %ᵕ‿‿ᵕ% </a>
+
+<h3> Feito por: </h3>
+<p> Arthur Soares  </p> 
+
 
 
