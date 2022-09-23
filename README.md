@@ -1,4 +1,4 @@
-<img align="center" width="600" left="400" src="![images](https://user-images.githubusercontent.com/108819499/191880692-2b7caedd-20dd-4af8-826b-838d7922964a.jpg)" alt="Logotipo">
+<img align="center" width="600" left="400" src="592678](https://user-images.githubusercontent.com/108819499/191881304-150429f8-e986-46d4-8c8b-02ca7a44f6ec.jpg" alt="Logotipo">
 
 
 
